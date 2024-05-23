@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962723076181",
+    "project_id": "resident-management-811f8",
+    "storage_bucket": "resident-management-811f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962723076181:android:8e6960194df010fa041cdc",
+        "android_client_info": {
+          "package_name": "com.tqq.mepartments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdlNqseyodbGSDfyuME9bMn4Th56ZgHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
